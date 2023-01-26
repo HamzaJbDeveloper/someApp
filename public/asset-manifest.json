@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.82fb173f.css",
+    "main.js": "/static/js/main.54bcc67c.js",
+    "static/media/ssangyoung.png": "/static/media/ssangyoung.09e867e90014d1846e8b.png",
+    "static/media/2.png": "/static/media/2.b574383e6fe1ade3e36a.png",
+    "static/media/geely.jpg": "/static/media/geely.1a810de54322646339a5.jpg",
+    "static/media/mahindra.png": "/static/media/mahindra.c4527b62a8ae555bd5d5.png",
+    "static/media/logo-mobile.svg": "/static/media/logo-mobile.89432922c792a90bae8af795d3864ab0.svg",
+    "static/media/logo.svg": "/static/media/logo.668e4bcac08052c12d84b2d047d646c9.svg",
+    "static/media/1.svg": "/static/media/1.4121d409dec30cefcbf2f57c7a793846.svg",
+    "static/media/4.svg": "/static/media/4.a495e6e636697197eae0080a587f009a.svg",
+    "index.html": "/index.html",
+    "static/media/3.svg": "/static/media/3.caa8870fbd5c95446fe955478904c21d.svg",
+    "main.82fb173f.css.map": "/static/css/main.82fb173f.css.map",
+    "main.54bcc67c.js.map": "/static/js/main.54bcc67c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82fb173f.css",
+    "static/js/main.54bcc67c.js"
+  ]
+}
